@@ -36,10 +36,10 @@
 
 ## Sketch
 
-## 🔴 Flow hiện tại
+### Flow hiện tại
 
-<img src="as-is.png" width="500" height="600">
+<img src="as-is.png" width="500" height="900">
 
-## 🟢 Flow cải tiến
+### Flow cải tiến
 
-<img src="to-be.png" width="500" height="600">
+<img src="to-be.png" width="500" height="900">
