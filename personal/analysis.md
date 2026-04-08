@@ -36,8 +36,10 @@
 
 ## Sketch
 
-(Ảnh đính kèm: sketch.jpg)
+## 🔴 Flow hiện tại
 
-- As-is: giao dịch → auto-tag → user thấy kết quả → nếu sai phải vào sửa thủ công
-- To-be: giao dịch → auto-tag → nếu confidence thấp: hiện "Bạn muốn phân loại?"
-  → user chọn → AI ghi nhận correction → hiện "Đã học, lần sau sẽ chính xác hơn"
+<img src="as-is.png" width="500" height="600">
+
+## 🟢 Flow cải tiến
+
+<img src="to-be.png" width="500" height="600">
