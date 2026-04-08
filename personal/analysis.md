@@ -1,6 +1,6 @@
-# UX exercise — MoMo Moni AI
+# UX exercise — Chatbot NEO của Vietnam Airlines
 
-## Sản phẩm: MoMo — Moni AI Assistant (phân loại chi tiêu)
+## Sản phẩm: Chatbot NEO — Hỗ trợ khách hàng đặt chuyến bay
 
 ## 4 paths
 
